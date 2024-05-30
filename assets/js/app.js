@@ -1,7 +1,7 @@
 const canvas = document.querySelector("[data-target]");
 const ctx = canvas?.getContext("2d");
 
-const FILE_PATH = "/assets/img/";
+const FILE_PATH = "https://namiyusuke.github.io/demo-slide/assets/img/";
 const IMAGES_COUNT = 5; // 画像の枚数に応じて変更
 const AMOUNT = 300;
 
